@@ -1,0 +1,14 @@
+{
+  "name": "taskmanagerabc",
+  "version": "1.0.0",
+  "description": "Task Manager - Netlify Serverless",
+  "dependencies": {
+    "mongoose": "^7.4.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.1",
+    "express-validator": "^7.0.1"
+  },
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
